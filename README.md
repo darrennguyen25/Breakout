@@ -9,9 +9,9 @@ Atari Breakout Game that runs locally in the browser
 
 ## Frontend Structure
 
--**`index.html`**: Main game screen that you'll be looking at in the browser
--**`style.css`**: File containing all the styling for the main game screen
--**`script.js`**: The main component handling all of the gameplay functionality
+- **`index.html`**: Main game screen that you'll be looking at in the browser
+- **`style.css`**: File containing all the styling for the main game screen
+- **`script.js`**: The main component handling all of the gameplay functionality
 
 ## Setup Instructions
 
@@ -22,4 +22,4 @@ Atari Breakout Game that runs locally in the browser
    ```
 
 2. Run in the browser
-   -Navigate to **`http://127.0.0.1:3000/index.html`**
+   - Navigate to **`http://127.0.0.1:3000/index.html`**
