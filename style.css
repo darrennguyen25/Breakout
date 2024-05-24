@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(238, 244, 248);
+  height: 100vh;
+}
+
+body {
+  text-align: center;
+  background-color: #27374d;
+}
+
+#board {
+  border: 3px solid skyblue;
+  background-color: rgb(51, 51, 51, 0.286);
+  border-radius: 10px;
+}
