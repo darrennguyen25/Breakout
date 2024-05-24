@@ -1,5 +1,8 @@
 # Breakout
 Atari Breakout Game that runs locally in the browser
+<p align="center">
+   <img src="https://i.postimg.cc/90bPGNjs/breakoutscreen.png"/>
+</p>
 
 ## Languages Used
 
