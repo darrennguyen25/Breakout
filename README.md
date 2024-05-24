@@ -23,3 +23,9 @@ Atari Breakout Game that runs locally in the browser
 
 2. Run in the browser
    - Navigate to **`http://127.0.0.1:3000/index.html`**
+
+## Gameplay Instructions
+- Left and right arrows keys to move the player
+- Hit 'Space' to restart the game when it's game over
+- Win by getting the ball past the blocks and hitting the top border
+- Lose by letting the ball hit the bottom border (i.e. missing the ball)
