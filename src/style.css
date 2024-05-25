@@ -8,13 +8,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(238, 244, 248);
-  height: 100vh;
-}
-
-body {
   text-align: center;
   background-color: #27374d;
+  height: 100vh;
 }
 
 #board {
